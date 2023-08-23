@@ -1,5 +1,8 @@
 # ZeroSec (api client)
 
+![npm](https://img.shields.io/npm/v/zerosec?style=flat-square)
+![npm](https://img.shields.io/npm/dt/zerosec?style=flat-square)
+
 This repository is a client library that provides a convenient way to interact with the ZeroSec Obfuscation Service. This service allows you to obfuscate Lua scripts for various platforms while offering options for security and performance trade-offs.
 
 ## Installation
