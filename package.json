@@ -1,6 +1,6 @@
 {
   "name": "zerosec",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ZeroSec API binding as npm package for NodeJS",
   "main": "lib/index.js",
   "scripts": {
