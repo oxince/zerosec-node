@@ -50,6 +50,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Please remember to replace `'your-api-key'` with your actual API key and provide a valid link under the "API documentation" section.

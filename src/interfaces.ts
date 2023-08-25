@@ -36,6 +36,8 @@ interface ObfuscationPayload {
   script: string;
   /** The platform for which the script will be obfuscated. Supported: lua, roblox, csgo, fivem. */
   platformLock?: "lua" | "roblox" | "csgo" | "fivem";
+  /** The watermark for the obfuscated file */
+  watermark?: string;
   /** Enables prevention of tampering with the script. Requires support for `loadstring` or `load` in the environment. */
   antiTamper?: boolean;
   /** Enables string encryption in the script (may impact performance, not recommended). */
