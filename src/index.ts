@@ -11,7 +11,7 @@ export default class ZeroSecAPI {
 
     this.apiKey = apiKey;
     this.api = axios.create({
-      baseURL: 'https://api.zero.sex/v1',
+      baseURL: 'https://api.zero.vodka/v1',
       headers: {
         'Authorization': apiKey
       }
